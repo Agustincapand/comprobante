@@ -1,0 +1,37 @@
+[
+    {
+        "id": 6,
+        "nombre": "Pablo",
+        "apellido": "Gomez",
+        "cuit": 1234,
+        "domicilio": "dsf78"
+    },
+    {
+        "id": 8,
+        "nombre": "Dario",
+        "apellido": "Barboza",
+        "cuit": 1234,
+        "domicilio": "San Luis 35"
+    },
+    {
+        "id": 9,
+        "nombre": "Julieta",
+        "apellido": "Grigolatto",
+        "cuit": "27409931206",
+        "domicilio": "San Juan 426"
+    },
+    {
+        "id": 10,
+        "nombre": "Veronica",
+        "apellido": "Scervino",
+        "cuit": 432423,
+        "domicilio": "1 de mayo 778"
+    },
+    {
+        "id": 11,
+        "nombre": "Agustin",
+        "apellido": "Capadenguy",
+        "cuit": "2343245",
+        "domicilio": "San Luis 1285"
+    }
+]

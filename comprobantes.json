@@ -1,0 +1,259 @@
+[
+    {
+        "id": 18,
+        "cliente_id": "7",
+        "fecha": "2022-06-23",
+        "tipo": "A",
+        "punto_de_venta": "0002",
+        "numero_de_comprobante": "00000019",
+        "detalle": [
+            {
+                "producto": "Cable USB",
+                "cantidad": 1,
+                "precio": 10,
+                "total": 10
+            }
+        ],
+        "importe_total": 10
+    },
+    {
+        "id": 19,
+        "cliente_id": "5",
+        "fecha": "2022-06-23",
+        "tipo": "B",
+        "punto_de_venta": "0004",
+        "numero_de_comprobante": "00000020",
+        "detalle": [
+            {
+                "producto": "Monitor",
+                "cantidad": 2,
+                "precio": 300,
+                "total": 600
+            },
+            {
+                "producto": "Mouse",
+                "cantidad": 1,
+                "precio": 100,
+                "total": 100
+            }
+        ],
+        "importe_total": 700
+    },
+    {
+        "id": 20,
+        "cliente_id": "9",
+        "fecha": "2022-06-24",
+        "tipo": "A",
+        "punto_de_venta": "0033",
+        "numero_de_comprobante": "00000021",
+        "detalle": [
+            {
+                "producto": "Procesador",
+                "cantidad": 1,
+                "precio": 350,
+                "total": 350
+            }
+        ],
+        "importe_total": 350
+    },
+    {
+        "id": 21,
+        "cliente_id": "8",
+        "fecha": "2022-06-24",
+        "tipo": "A",
+        "punto_de_venta": "0002",
+        "numero_de_comprobante": "00000022",
+        "detalle": [
+            {
+                "producto": "Teclado",
+                "cantidad": 1,
+                "precio": 150,
+                "total": 150
+            },
+            {
+                "producto": "Mouse",
+                "cantidad": 1,
+                "precio": 100,
+                "total": 100
+            },
+            {
+                "producto": "Parlantes",
+                "cantidad": 1,
+                "precio": 130,
+                "total": 130
+            }
+        ],
+        "importe_total": 380
+    },
+    {
+        "id": 22,
+        "cliente_id": "9",
+        "fecha": "2022-06-24",
+        "tipo": "A",
+        "punto_de_venta": "5954",
+        "numero_de_comprobante": "00000023",
+        "detalle": [
+            {
+                "producto": "Memoria ram",
+                "cantidad": 2,
+                "precio": 150,
+                "total": 300
+            }
+        ],
+        "importe_total": 300
+    },
+    {
+        "id": 23,
+        "cliente_id": "7",
+        "fecha": "2022-06-24",
+        "tipo": "A",
+        "punto_de_venta": "3490",
+        "numero_de_comprobante": "00000024",
+        "detalle": [
+            {
+                "producto": "Tinta Impresora",
+                "cantidad": 2,
+                "precio": 75,
+                "total": 150
+            }
+        ],
+        "importe_total": 150
+    },
+    {
+        "id": 24,
+        "cliente_id": "7",
+        "fecha": "2022-06-24",
+        "tipo": "A",
+        "punto_de_venta": "0002",
+        "numero_de_comprobante": "00000025",
+        "detalle": [
+            {
+                "producto": "Placa Madre",
+                "cantidad": 1,
+                "precio": 250,
+                "total": 250
+            }
+        ],
+        "importe_total": 250
+    },
+    {
+        "id": 25,
+        "cliente_id": "6",
+        "fecha": "2022-06-27",
+        "tipo": "A",
+        "punto_de_venta": "0002",
+        "numero_de_comprobante": "00000026",
+        "detalle": [
+            {
+                "producto": "Mouse",
+                "cantidad": 1,
+                "precio": 90,
+                "total": 90
+            }
+        ],
+        "importe_total": 90
+    },
+    {
+        "id": 26,
+        "cliente_id": "9",
+        "fecha": "2022-06-27",
+        "tipo": "C",
+        "punto_de_venta": "0005",
+        "numero_de_comprobante": "00000027",
+        "detalle": [
+            {
+                "producto": "Teclado",
+                "cantidad": 1,
+                "precio": 123,
+                "total": 123
+            }
+        ],
+        "importe_total": 123
+    },
+    {
+        "id": 27,
+        "cliente_id": "10",
+        "fecha": "2022-06-27",
+        "tipo": "C",
+        "punto_de_venta": "0024",
+        "numero_de_comprobante": "00000028",
+        "detalle": [
+            {
+                "producto": "mU\u00d1ECA",
+                "cantidad": 1,
+                "precio": 456,
+                "total": 456
+            }
+        ],
+        "importe_total": 456
+    },
+    {
+        "id": 28,
+        "cliente_id": "10",
+        "fecha": "2022-06-27",
+        "tipo": "B",
+        "punto_de_venta": "0078",
+        "numero_de_comprobante": "00000029",
+        "detalle": [
+            {
+                "producto": "PC de escritorio",
+                "cantidad": 2,
+                "precio": 98000,
+                "total": 196000
+            },
+            {
+                "producto": "Pantalla LCD",
+                "cantidad": 1,
+                "precio": 35000,
+                "total": 35000
+            }
+        ],
+        "importe_total": 231000
+    },
+    {
+        "id": 29,
+        "cliente_id": "11",
+        "fecha": "2022-06-27",
+        "tipo": "A",
+        "punto_de_venta": "0034",
+        "numero_de_comprobante": "00000030",
+        "detalle": [
+            {
+                "producto": "Teclado",
+                "cantidad": 2,
+                "precio": 456,
+                "total": 912
+            },
+            {
+                "producto": "Funda para celular",
+                "cantidad": 1,
+                "precio": 345,
+                "total": 345
+            }
+        ],
+        "importe_total": 1257
+    },
+    {
+        "id": 30,
+        "cliente_id": "9",
+        "fecha": "2022-06-27",
+        "tipo": "C",
+        "punto_de_venta": "0045",
+        "numero_de_comprobante": "00000031",
+        "detalle": [
+            {
+                "producto": "teclado",
+                "cantidad": 3,
+                "precio": 568,
+                "total": 1704
+            },
+            {
+                "producto": "mouse",
+                "cantidad": 1,
+                "precio": 230,
+                "total": 230
+            }
+        ],
+        "importe_total": 1934
+    }
+]
